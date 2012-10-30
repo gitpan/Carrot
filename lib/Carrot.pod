@@ -1,0 +1,20 @@
+=pod
+
+=head1 NAME
+
+Carrot - A healthy alternative to syntactic sugar
+
+=head1 AUTHOR
+
+Winfried Trumper E<lt>pub+perl_carrot(°)wt.tuxomania.netE<gt>
+
+
+=head1 COPYRIGHT AND LICENSE
+
+Please see L<Carrot::License>.
+
+=cut
+
+
+
+
