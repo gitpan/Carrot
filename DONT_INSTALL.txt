@@ -1,0 +1,29 @@
+This is a development snapshot for the purpose of public preview.
+Do not install the Perl modules. Just unpack the tar file into /tmp.
+
+        cd /tmp
+        tar -xzvf Carrot-1.1.306.tgz
+
+Then execute these commands to see Carrot in action:
+
+        cd /tmp/mica_environment/program_modules/perl
+        /tmp/mica_environment/program_modules/perl/Carrot./carrot_program.sh \
+                --carrot-mode=development hello_world
+
+It should print something like the following
+
+          END loading | ^
+          END loading ^
+        S: 4
+        START loading Carrot::Continuity::Coordination::Episode::Targ...
+        START loading | Carrot::Continuity::Coordination::Episode::So...
+        START loading | | Carrot::Continuity::Coordination::Episode::...
+          END loading | | ^
+          END loading | ^
+          END loading ^
+        Starting Loop
+        Hello World 9466
+        Hello World 9466
+        Hello World 9466
+
+That's it. For more information, see http://www.carrot-programming.org
