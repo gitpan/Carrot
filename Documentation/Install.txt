@@ -1,4 +1,4 @@
-This document applies to version 1.1.308 of Carrot, released 16th August 2014
+This document applies to version 1.1.309 of Carrot, released 17th August 2014
 
 The current release is a development snapshot for the purpose of
 public preview. It's possible but not recommended to install Carrot
@@ -17,12 +17,12 @@ this document is about running Carrot from the archive.
 
 This statement downloads and unpacks the archive file:
 
-curl http://www.carrot-programming.org/perl/snapshots/Carrot-1.1.308.tar.gz \
+curl http://www.carrot-programming.org/perl/snapshots/Carrot-1.1.309.tar.gz \
 | tar -xzf -
 
 Execute these commands to see Carrot in action:
 
-	cd Carrot-1.1.308
+	cd Carrot-1.1.309
 	cp -a Documentation/dot_carrot ~/.carrot
 	./lib/Carrot./carrot_program.sh \
 		--carrot-mode=development hello_world

@@ -1,4 +1,4 @@
-This document applies to version 1.1.308 of Carrot, released 16th August 2014
+This document applies to version 1.1.309 of Carrot, released 17th August 2014
 
 Carrot gives you systematic expressiveness in the form of diversity,
 modularity, and individuality. Technically the expressiveness relies

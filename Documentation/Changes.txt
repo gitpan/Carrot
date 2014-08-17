@@ -1,3 +1,6 @@
+1.1.309 17th August 2014
+	- re-packed 1.1.308 with bsdtar, because it's compatible with Archive::Tar.
+
 1.1.308 16th August 2014
 	- installs like a standard Perl module
 	- writable overlay enables straightforward use by non-developers
